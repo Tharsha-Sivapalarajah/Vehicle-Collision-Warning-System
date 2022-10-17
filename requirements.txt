@@ -1,0 +1,11 @@
+tensorflow
+numpy
+opencv-python
+h5py
+typing-extensions
+wheel
+lxml
+tqdm
+seaborn
+pillow
+shapely
